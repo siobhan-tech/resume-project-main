@@ -265,6 +265,12 @@ section {
     gap: 1rem;
 }
 
+.btn:disabled {
+    background-color: rgb(163, 163, 163);
+    color: #666;
+    cursor: not-allowed;
+}
+
 /* about section */
 
 #about {
