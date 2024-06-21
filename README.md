@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://example.com/">
+  <a href="https://siobhan.zip/">
     <img src="/assets/profile-pic.png" alt="Logo" width=72 height=72>
   </a>
 
@@ -8,9 +8,9 @@
   <p align="center">
     Portfolio Site + Automation Suite
     <br>
-    <a href="https://reponame/issues/new?template=bug.md">Report bug</a>
+    <a href="https://github.com/siobhan-tech/resume-project-main/issues/new">Report bug</a>
     ·
-    <a href="https://reponame/issues/new?template=feature.md&labels=feature">Request feature</a>
+    <a href="mailto:mail@siobhan.zip">Request feature</a>
   </p>
 </p>
 
@@ -20,7 +20,7 @@
 - [Description](#description)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Got somethin to say?](#Got-somethin-to-say?)
+- [Got somethin to say?](#got-somethin-to-say?)
 - [Creators](#creators)
 - [Thanks](#thanks)
 
@@ -69,7 +69,7 @@ folder1/
 
 Have a bug or a feature request? Have any feedback on how to improve my portfolio? Think I'm cute/funny?
 
-[please, feel free to let me know](mail@siobahn.zip).
+[please, feel free to let me know](mailto:mail@siobhan.zip).
 
 ## Creators
 
