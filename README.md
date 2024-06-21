@@ -20,7 +20,7 @@
 - [Description](#description)
 - [Status](#status)
 - [What's included](#whats-included)
-- [Got somethin to say?](#got-somethin-to-say?)
+- [Got somethin to say?](#got-somethin-to-say)
 - [Creators](#creators)
 - [Thanks](#thanks)
 
