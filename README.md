@@ -31,6 +31,7 @@
 Hello, and thank you for visiting! This is a simple portfolio site based on the template provided in the tutorial below:
 
 Credit to **Ade-mir** on [github](<https://github.com/Ade-mir>)
+
 [Responsive Portfolio Website From Scratch](https://www.youtube.com/watch?v=ldwlOzRvYOU)
 - <https://github.com/Ade-mir>
 
