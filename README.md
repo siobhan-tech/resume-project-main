@@ -30,7 +30,9 @@
 
 Hello, and thank you for visiting! This is a simple portfolio site based on the template provided in the tutorial below:
 
+Credit to **Ade-mir** on [github](<https://github.com/Ade-mir>)
 [Responsive Portfolio Website From Scratch](https://www.youtube.com/watch?v=ldwlOzRvYOU)
+- <https://github.com/Ade-mir>
 
 This site is meant to be a demonstration of simple domain knowledge of
 
@@ -76,10 +78,6 @@ Have a bug or a feature request? Have any feedback on how to improve my portfoli
 **Siobhan Powell**
 
 - <https://github.com/siobhan-tech>
-
-**Ade-mir**
-
-- <https://github.com/Ade-mir>
 
 ## Thanks
 
