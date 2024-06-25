@@ -8,9 +8,7 @@
   <p align="center">
     Portfolio Site + Automation Suite
     <br>
-    <a href="https://github.com/siobhan-tech/resume-project-main/issues/new">Report bug</a>
-    ·
-    <a href="mailto:mail@siobhan.zip">Request feature</a>
+    <a href="mailto:mail@siobhan.zip">Contact Me</a>
   </p>
 </p>
 
@@ -28,7 +26,7 @@
 
 ## Description
 
-Hello, and thank you for visiting! This is a simple portfolio site based on the template provided in the tutorial below, Credit to **Ademir** on [github](<https://github.com/Ade-mir>):
+Hello, and thank you for visiting! This is a simple portfolio site based on the template provided in the tutorial below, credit to [Ademir](https://github.com/Ade-mir):
 
 [Responsive Portfolio Website From Scratch](https://www.youtube.com/watch?v=ldwlOzRvYOU)
 
@@ -52,17 +50,30 @@ Currently, I have completed the base tutorial, with plans to work on making the 
 
 ## What's included
 
-Below is the site structure, with feature branches found [HERE] and testing libraries [HERE]
+Below is the site structure, with assocaited Cypress Test Suites and documentation
 
 ```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+/resume-project-main
+└── assets/
+└── cypress/
+    └── downloads/
+    └── fixtures/
+        └── example.json
+    └── support/
+        └── commands.js
+        └── e2e.js
+└── node_modules/
+└── .gitattributes
+└── .gitignore
+└── cypress.config.js
+└── index.html
+└── mediaqueries.css
+└── package.json
+└── package-lock.json
+└── README.md
+└── script.j
+└── style.css
+└── TESTSUTE.md
 ```
 
 ## Got somethin to say?
