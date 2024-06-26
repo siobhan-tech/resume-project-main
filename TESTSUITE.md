@@ -1,12 +1,12 @@
 ### BDD Test Suite
 
+As implemented, this suite should provide near-complete coverage for major portfolio features
+
 ### Rubric:
 
 -   **Given:** Describes the initial context or precondition.
 -   **When:** Describes the action or event that occurs.
 -   **Then:** Describes the expected outcome or result.
-
-As implemented, this suite should provide near-complete coverage for major portfolio features
 
 #### A: Navigation
 
